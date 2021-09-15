@@ -6,7 +6,7 @@ Puff Piano is a Pygame simulation that lets the user
 play any combination of notes/chords in a single octave.
 When the puff puff are idle, they sleep in their pan.
 When the user presses the corresponding key, they come to
-life.
+life!
 
 ### Controls
 | Puff Puff  | Keyboard | Note | Solfege |
