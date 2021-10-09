@@ -1,5 +1,6 @@
 # Puff Piano
-an 8-key piano made out of the Igbo pastry puff puff
+![screenshot of Puff Piano](https://live.staticflickr.com/65535/51569473361_8033affb69_o.png)
+</br>an 8-key piano made out of the Igbo pastry puff puff
 
 ## Description
 Puff Piano is a Pygame simulation that lets the user
